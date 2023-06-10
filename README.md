@@ -10,8 +10,6 @@ Proyek ini akan membahas tentang bagaimana melakukan peramalan atau prediksi ter
 ## Deployment Link
 [HuggingFace](https://huggingface.co/spaces/bagushakim-id/demand-forecas)
 
-## Folder Description
-
 ## Tools and Library
 - Pyhton
 - Pandas
