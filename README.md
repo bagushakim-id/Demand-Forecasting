@@ -1,4 +1,4 @@
-# Demand-Forecasting
+# Demand Forecasting
 
 Proyek ini akan membahas tentang bagaimana melakukan peramalan atau prediksi terhadap permintaan jumlah produk pada perusahaan menggunakan analisis time series. Proyek ini akan mencakup pengumpulan data, analisis data, pemilihan model terbaik, dan prediksi untuk memperkirakan jumlah permintaan produk pada perusahaan dalam jangka waktu tertentu. Dalam proyek ini, teknik time series analysis akan digunakan untuk mengevaluasi data historis dan membuat prediksi terhadap permintaan di masa depan untuk membantu perusahaan untuk mempersiapkan stok produk yang diperlukan secara lebih efektif.
 
